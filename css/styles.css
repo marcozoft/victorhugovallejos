@@ -293,7 +293,7 @@ h1, h2, h3, h4 {
   width: 140px;
   flex-shrink: 0;
   border-radius: 4px;
-  box-shadow: 0 4px 16px rgba(61, 43, 31, 0.18);
+  /*box-shadow: 0 4px 16px rgba(61, 43, 31, 0.18);*/
 }
 
 @media (max-width: 640px) {
@@ -606,6 +606,82 @@ h1, h2, h3, h4 {
   color: #7A5036;
   font-style: italic;
   font-size: 0.97rem;
+}
+
+/* ---------- Biografía ---------- */
+.bio-hero {
+  background-image:
+    linear-gradient(to bottom, rgba(237, 217, 191, 0.5), rgba(237, 217, 191, 0.85)),
+    url('../img/bio.png');
+  background-size: cover;
+  background-position: center;
+}
+
+.bio-intro {
+  margin-bottom: 3rem;
+}
+
+.bio-image {
+  border-radius: 8px;
+  overflow: hidden;
+  margin-bottom: 1.5rem;
+  box-shadow: 0 4px 20px rgba(61, 43, 31, 0.12);
+}
+
+.bio-image img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+.bio-header h2 {
+  font-size: clamp(1.6rem, 3vw, 2.4rem);
+  margin-bottom: 0.25rem;
+}
+
+.bio-origin {
+  font-family: 'Playfair Display', serif;
+  font-style: italic;
+  font-size: 1.05rem;
+  color: #6B4A3A;
+}
+
+.bio-text {
+  max-width: 800px;
+}
+
+.bio-text h3 {
+  font-size: 1.3rem;
+  margin-top: 2.5rem;
+  margin-bottom: 0.75rem;
+  padding-bottom: 0.4rem;
+  border-bottom: 1px solid #D4B896;
+}
+
+.bio-text h3:first-child {
+  margin-top: 0;
+}
+
+.bio-text p {
+  font-size: 0.97rem;
+  color: #3D2B1F;
+  line-height: 1.85;
+  margin-bottom: 1.25rem;
+}
+
+.bio-contact {
+  margin-top: 3rem;
+  padding-top: 1.5rem;
+  border-top: 2px solid #D4B896;
+}
+
+.bio-contact p {
+  font-size: 0.95rem;
+  color: #5A3A2A;
+}
+
+.bio-contact a {
+  font-weight: 600;
 }
 
 /* ---------- Responsive: Tablet ---------- */
