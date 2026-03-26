@@ -1,0 +1,922 @@
+[
+  {
+    "title": "Anécdotas",
+    "photos": [
+      {
+        "name": "Bodega Nacari 1.jpg",
+        "slug": "bodega-nacari-1",
+        "image": "images/image38.jpg"
+      },
+      {
+        "name": "Bodega Nacari.jpg",
+        "slug": "bodega-nacari",
+        "image": "images/image61.jpg"
+      },
+      {
+        "name": "Clave Cuatro.jpg",
+        "slug": "clave-cuatro",
+        "image": "images/image153.jpg"
+      },
+      {
+        "name": "En Posadas.jpg",
+        "slug": "en-posadas",
+        "image": "images/image104.jpg"
+      },
+      {
+        "name": "Futbol chicas.jpg",
+        "slug": "futbol-chicas",
+        "image": "images/image129.jpg"
+      },
+      {
+        "name": "Futbol varones.jpg",
+        "slug": "futbol-varones",
+        "image": "images/image47.jpg"
+      },
+      {
+        "name": "Mariles y Marcela.jpg",
+        "slug": "mariles-y-marcela",
+        "image": "images/image62.jpg"
+      },
+      {
+        "name": "Salon comedor y eventos hotel Reggine San Rafael.jpg",
+        "slug": "salon-comedor-y-eventos-hotel-reggine-san-rafael",
+        "image": "images/image131.jpg"
+      },
+      {
+        "name": "Samay Huasi.jpg",
+        "slug": "samay-huasi",
+        "image": "images/image68.jpg"
+      }
+    ]
+  },
+  {
+    "title": "Presentación Centro Correntino.JPG",
+    "photos": [
+      {
+        "name": "Presentación Centro Correntino.JPG",
+        "slug": "presentacion-centro-correntino",
+        "image": "images/image121.jpg"
+      }
+    ]
+  },
+  {
+    "title": "Encuentros",
+    "photos": [
+      {
+        "name": "Con Cecilia Fernández.jpg",
+        "slug": "con-cecilia-fernandez",
+        "image": "images/image44.jpg"
+      },
+      {
+        "name": "Con Encarnacion en Mendoza.jpg",
+        "slug": "con-encarnacion-en-mendoza",
+        "image": "images/image73.jpg"
+      }
+    ]
+  },
+  {
+    "title": "Generaciones",
+    "photos": [
+      {
+        "name": "Con Verónica Baiardi en una escuela de Etcheverry.jpg",
+        "slug": "con-veronica-baiardi-en-una-escuela-de-etcheverry",
+        "image": "images/image99.jpg"
+      },
+      {
+        "name": "Luz Zovich.jpg",
+        "slug": "luz-zovich",
+        "image": "images/image100.jpg"
+      },
+      {
+        "name": "Marcos Piedra.jpg",
+        "slug": "marcos-piedra",
+        "image": "images/image14.jpg"
+      },
+      {
+        "name": "Rocio Martinez.jpg",
+        "slug": "rocio-martinez",
+        "image": "images/image145.jpg"
+      },
+      {
+        "name": "Veronica Baiardi.jpg",
+        "slug": "veronica-baiardi",
+        "image": "images/image160.jpg"
+      }
+    ]
+  },
+  {
+    "title": "Otros escritos",
+    "photos": [
+      {
+        "name": "Abelina Acosta Felquer.jpg",
+        "slug": "abelina-acosta-felquer",
+        "image": "images/image1.jpg"
+      },
+      {
+        "name": "Analía Perez.JPG",
+        "slug": "analia-perez",
+        "image": "images/image164.jpg"
+      },
+      {
+        "name": "Analía Zamponi.jpg",
+        "slug": "analia-zamponi",
+        "image": "images/image101.jpg"
+      },
+      {
+        "name": "Ana María Monticchio.jpg",
+        "slug": "ana-maria-monticchio",
+        "image": "images/image143.jpg"
+      },
+      {
+        "name": "Cristina Zilio.jpg",
+        "slug": "cristina-zilio",
+        "image": "images/image94.jpg"
+      },
+      {
+        "name": "Daniela Nieto.jpg",
+        "slug": "daniela-nieto",
+        "image": "images/image89.jpg"
+      },
+      {
+        "name": "Fabian Anuchnik.jpg",
+        "slug": "fabian-anuchnik",
+        "image": "images/image48.jpg"
+      },
+      {
+        "name": "Gustavo Piedra.jpg",
+        "slug": "gustavo-piedra",
+        "image": "images/image78.jpg"
+      },
+      {
+        "name": "Lorena Coppiarolo.jpg",
+        "slug": "lorena-coppiarolo",
+        "image": "images/image81.jpg"
+      },
+      {
+        "name": "Luisa D´Adorante.jpg",
+        "slug": "luisa-d-adorante",
+        "image": "images/image141.jpg"
+      },
+      {
+        "name": "Mara Llanos.jpg",
+        "slug": "mara-llanos",
+        "image": "images/image112.jpg"
+      },
+      {
+        "name": "María Ines Botana.jpg",
+        "slug": "maria-ines-botana",
+        "image": "images/image146.jpg"
+      },
+      {
+        "name": "Maria Rosa Mayolo.jpg",
+        "slug": "maria-rosa-mayolo",
+        "image": "images/image85.jpg"
+      },
+      {
+        "name": "Matias Diaz.jpg",
+        "slug": "matias-diaz",
+        "image": "images/image65.jpg"
+      },
+      {
+        "name": "Mercedes Garcia.jpg",
+        "slug": "mercedes-garcia",
+        "image": "images/image23.jpg"
+      },
+      {
+        "name": "Miguel Angel Silva.jpg",
+        "slug": "miguel-angel-silva",
+        "image": "images/image91.jpg"
+      },
+      {
+        "name": "Sabrina Viña.jpg",
+        "slug": "sabrina-vina",
+        "image": "images/image144.jpg"
+      },
+      {
+        "name": "Silvina Fernández.jpg",
+        "slug": "silvina-fernandez",
+        "image": "images/image18.jpg"
+      },
+      {
+        "name": "Susana Lagos.jpg",
+        "slug": "susana-lagos",
+        "image": "images/image108.jpg"
+      },
+      {
+        "name": "Viviana Novas.jpg",
+        "slug": "viviana-novas",
+        "image": "images/image67.jpg"
+      }
+    ]
+  },
+  {
+    "title": "Otros relatos 2",
+    "photos": [
+      {
+        "name": "Abelina después de Resistencia.jpg",
+        "slug": "abelina-despues-de-resistencia",
+        "image": "images/image135.jpg"
+      },
+      {
+        "name": "Abelina presentación libro en Corrientes.jpg",
+        "slug": "abelina-presentacion-libro-en-corrientes",
+        "image": "images/image105.jpg"
+      },
+      {
+        "name": "Al rescate de Vivi.jpg",
+        "slug": "al-rescate-de-vivi",
+        "image": "images/image154.jpg"
+      },
+      {
+        "name": "Analía en Colonia Santa Rosa (Ctes).JPG",
+        "slug": "analia-en-colonia-santa-rosa-ctes",
+        "image": "images/image12.jpg"
+      },
+      {
+        "name": "Analía Pérez monumento Güemes.jpeg",
+        "slug": "analia-perez-monumento-guemes",
+        "image": "images/image138.jpg"
+      },
+      {
+        "name": "Analía, Silvia, Marcela _ Roxana.jpg",
+        "slug": "analia-silvia-marcela-_-roxana",
+        "image": "images/image93.jpg"
+      },
+      {
+        "name": "Analía Viaje al Palmar.jpg",
+        "slug": "analia-viaje-al-palmar",
+        "image": "images/image69.jpg"
+      },
+      {
+        "name": "Ana María con Suna Rocha en La Plata. Claudia Santucci y Claudia\n                        Tosca.jpg",
+        "slug": "ana-maria-con-suna-rocha-en-la-plata-claudia-santucci-y-claudia-tosca",
+        "image": "images/image125.jpg"
+      },
+      {
+        "name": "Ana María en el Palmar.jpg",
+        "slug": "ana-maria-en-el-palmar",
+        "image": "images/image109.jpg"
+      },
+      {
+        "name": "Ana María viaje a San Pedro.jpg",
+        "slug": "ana-maria-viaje-a-san-pedro",
+        "image": "images/image152.jpg"
+      },
+      {
+        "name": "Con alumnos el dìa incio tràmite\n                        jubbilaciòn.jpg",
+        "slug": "con-alumnos-el-dia-incio-tramite-jubbilacion",
+        "image": "images/image10.jpg"
+      },
+      {
+        "name": "Con Daniela el dìa inicio tràmites de\n                        jubilaciòn.jpg",
+        "slug": "con-daniela-el-dia-inicio-tramites-de-jubilacion",
+        "image": "images/image168.jpg"
+      },
+      {
+        "name": "Con Latigo Coggi en Brandsen.jpeg",
+        "slug": "con-latigo-coggi-en-brandsen",
+        "image": "images/image114.jpg"
+      },
+      {
+        "name": "Con Nancy Bianchetti en Santa Lucìa.jpg",
+        "slug": "con-nancy-bianchetti-en-santa-lucia",
+        "image": "images/image46.jpg"
+      },
+      {
+        "name": "Cristina con Marta en Iberá.jpg",
+        "slug": "cristina-con-marta-en-ibera",
+        "image": "images/image106.jpg"
+      },
+      {
+        "name": "Cristina en Yapeyù.jpg",
+        "slug": "cristina-en-yapeyu",
+        "image": "images/image40.jpg"
+      },
+      {
+        "name": "En Glaciar Perito Moreno.jpg",
+        "slug": "en-glaciar-perito-moreno",
+        "image": "images/image74.jpg"
+      },
+      {
+        "name": "En Puerto Madryn.jpg",
+        "slug": "en-puerto-madryn",
+        "image": "images/image22.jpg"
+      },
+      {
+        "name": "En Punta del Este con Andrea Pérez Ballari, Sylvia\n                        Hernández y Analía Pérez.JPG",
+        "slug": "en-punta-del-este-con-andrea-perez-ballari-sylvia-hernandez-y-analia-perez",
+        "image": "images/image87.jpg"
+      },
+      {
+        "name": "En Rada Tilly.jpg",
+        "slug": "en-rada-tilly",
+        "image": "images/image11.jpg"
+      },
+      {
+        "name": "En Trevelin (Chubut).jpg",
+        "slug": "en-trevelin-chubut",
+        "image": "images/image49.jpg"
+      },
+      {
+        "name": "Fabian con Horacio y Fito.jpg",
+        "slug": "fabian-con-horacio-y-fito",
+        "image": "images/image9.jpg"
+      },
+      {
+        "name": "Grupo Iberá con Julián Zini en Centro Correntino de La\n                        Plata.jpg",
+        "slug": "grupo-ibera-con-julian-zini-en-centro-correntino-de-la-plata",
+        "image": "images/image127.jpg"
+      },
+      {
+        "name": "Guitarreadas en El Tibet.jpg",
+        "slug": "guitarreadas-en-el-tibet",
+        "image": "images/image115.jpg"
+      },
+      {
+        "name": "Juanjo y Látigo Coggi.jpeg",
+        "slug": "juanjo-y-latigo-coggi",
+        "image": "images/image90.jpg"
+      },
+      {
+        "name": "Lorena atascada en Iberá.JPG",
+        "slug": "lorena-atascada-en-ibera",
+        "image": "images/image64.jpg"
+      },
+      {
+        "name": "Lorena con pobladores del Iberá.jpg",
+        "slug": "lorena-con-pobladores-del-ibera",
+        "image": "images/image4.jpg"
+      },
+      {
+        "name": "Lorena en Facultad.jpg",
+        "slug": "lorena-en-facultad",
+        "image": "images/image86.jpg"
+      },
+      {
+        "name": "Lorena y equipo Centro Correntino.JPG",
+        "slug": "lorena-y-equipo-centro-correntino",
+        "image": "images/image53.jpg"
+      },
+      {
+        "name": "Lorena y equipo en Santa Fe.jpg",
+        "slug": "lorena-y-equipo-en-santa-fe",
+        "image": "images/image31.jpg"
+      },
+      {
+        "name": "Los auténticos Tunduques.jpg",
+        "slug": "los-autenticos-tunduques",
+        "image": "images/image117.jpg"
+      },
+      {
+        "name": "Los tunduques cenando.jpg",
+        "slug": "los-tunduques-cenando",
+        "image": "images/image163.jpg"
+      },
+      {
+        "name": "Luis Adriani viaje Patagonia.jpg",
+        "slug": "luis-adriani-viaje-patagonia",
+        "image": "images/image36.jpg"
+      },
+      {
+        "name": "Luisa en San Ignacio.jpg",
+        "slug": "luisa-en-san-ignacio",
+        "image": "images/image151.jpg"
+      },
+      {
+        "name": "Mara en el Palmar.jpg",
+        "slug": "mara-en-el-palmar",
+        "image": "images/image102.jpg"
+      },
+      {
+        "name": "Mara yendo al Palmar.jpg",
+        "slug": "mara-yendo-al-palmar",
+        "image": "images/image5.jpg"
+      },
+      {
+        "name": "María Inés Botana presentacion libro FCE.jpg",
+        "slug": "maria-ines-botana-presentacion-libro-fce",
+        "image": "images/image140.jpg"
+      },
+      {
+        "name": "Marìa Inès cumple del Profe.jpg",
+        "slug": "maria-ines-cumple-del-profe",
+        "image": "images/image84.jpg"
+      },
+      {
+        "name": "Mariana, Diego y Verónica en Samay Huasi.jpg",
+        "slug": "mariana-diego-y-veronica-en-samay-huasi",
+        "image": "images/image167.jpg"
+      },
+      {
+        "name": "Mariana pensante en Samay Huasi.jpg",
+        "slug": "mariana-pensante-en-samay-huasi",
+        "image": "images/image130.jpg"
+      },
+      {
+        "name": "Mariana Relli.jpg",
+        "slug": "mariana-relli",
+        "image": "images/image37.jpg"
+      },
+      {
+        "name": "Miguel juntando guindos.jpg",
+        "slug": "miguel-juntando-guindos",
+        "image": "images/image82.jpg"
+      },
+      {
+        "name": "Mirta Madies y Miguel Angel Silva.jpg",
+        "slug": "mirta-madies-y-miguel-angel-silva",
+        "image": "images/image158.jpg"
+      },
+      {
+        "name": "Mónica Cataratas Iguazú.jpg",
+        "slug": "monica-cataratas-iguazu",
+        "image": "images/image42.jpg"
+      },
+      {
+        "name": "Mónica, Diego y Víctor Hugo.jpg",
+        "slug": "monica-diego-y-victor-hugo",
+        "image": "images/image142.jpg"
+      },
+      {
+        "name": "Mónica en Abya Yala.jpg",
+        "slug": "monica-en-abya-yala",
+        "image": "images/image51.jpg"
+      },
+      {
+        "name": "Mónica en El Chiflon.jpg",
+        "slug": "monica-en-el-chiflon",
+        "image": "images/image161.jpg"
+      },
+      {
+        "name": "Mónica en Talampaya.jpg",
+        "slug": "monica-en-talampaya",
+        "image": "images/image52.jpg"
+      },
+      {
+        "name": "Mónica Mon Andresito.jpg",
+        "slug": "monica-mon-andresito",
+        "image": "images/image30.jpg"
+      },
+      {
+        "name": "Monica Paoloni.jpg",
+        "slug": "monica-paoloni",
+        "image": "images/image133.jpg"
+      },
+      {
+        "name": "Mónica, Rita y Víctor Hugo.jpg",
+        "slug": "monica-rita-y-victor-hugo",
+        "image": "images/image13.jpg"
+      },
+      {
+        "name": "Mónica Victor Hugo en El Chiflon.JPG",
+        "slug": "monica-victor-hugo-en-el-chiflon",
+        "image": "images/image50.jpg"
+      },
+      {
+        "name": "Nancy Bianchetti.jpg",
+        "slug": "nancy-bianchetti",
+        "image": "images/image120.jpg"
+      },
+      {
+        "name": "Pedro  Valdez con alumnos en Amaicha del Valle.jpg",
+        "slug": "pedro-valdez-con-alumnos-en-amaicha-del-valle",
+        "image": "images/image116.jpg"
+      },
+      {
+        "name": "Prof. Siragusa explicaciòn.jpg",
+        "slug": "prof-siragusa-explicacion",
+        "image": "images/image43.jpg"
+      },
+      {
+        "name": "Raquel Oggero.png",
+        "slug": "raquel-oggero",
+        "image": "images/image55.png"
+      },
+      {
+        "name": "Reconocimiento al Profe en Corrientes.jpg",
+        "slug": "reconocimiento-al-profe-en-corrientes",
+        "image": "images/image162.jpg"
+      },
+      {
+        "name": "Reconocimiento Profe en Corrientes.jpg",
+        "slug": "reconocimiento-profe-en-corrientes",
+        "image": "images/image122.jpg"
+      },
+      {
+        "name": "Sabrina con pobladores del Iberá.jpg",
+        "slug": "sabrina-con-pobladores-del-ibera",
+        "image": "images/image147.jpg"
+      },
+      {
+        "name": "Sabrina_con Vero y Seba Laguna Iberà.jpg",
+        "slug": "sabrina-con-vero-y-seba-laguna-ibera",
+        "image": "images/image97.jpg"
+      },
+      {
+        "name": "Salida a la Patagonia 1982.png",
+        "slug": "salida-a-la-patagonia-1982",
+        "image": "images/image75.png"
+      },
+      {
+        "name": "Seba en_Est. Socorro-Lag. Iberá.jpg",
+        "slug": "seba-en-est-socorro-lag-ibera",
+        "image": "images/image137.jpg"
+      },
+      {
+        "name": "Seba en Trasulag (La Cruz).JPG",
+        "slug": "seba-en-trasulag-la-cruz",
+        "image": "images/image128.jpg"
+      },
+      {
+        "name": "Silvina y Andrea.jpg",
+        "slug": "silvina-y-andrea",
+        "image": "images/image149.jpg"
+      },
+      {
+        "name": "Susana Lagos en El Palmar.jpg",
+        "slug": "susana-lagos-en-el-palmar",
+        "image": "images/image134.jpg"
+      },
+      {
+        "name": "Susana Lagos, su bebé, Analía y El Profe en el\n                        Palmar.jpg",
+        "slug": "susana-lagos-su-bebe-analia-y-el-profe-en-el-palmar<",
+        "image": "images/image27.jpg"
+      },
+      {
+        "name": "Sylvia  en Sierra de las Ánimas.jpg",
+        "slug": "sylvia-en-sierra-de-las-animas",
+        "image": "images/image155.jpg"
+      },
+      {
+        "name": "Sylvia Hernández.jpg",
+        "slug": "sylvia-hernandez",
+        "image": "images/image25.jpg"
+      },
+      {
+        "name": "Taulen actuando.jpg",
+        "slug": "taulen-actuando",
+        "image": "images/image148.jpg"
+      },
+      {
+        "name": "Taulén-El reencuentro (2020).jpg",
+        "slug": "taulen-el-reencuentro-2020",
+        "image": "images/image15.jpg"
+      },
+      {
+        "name": "Taulen formación.jpg",
+        "slug": "taulen-formacion",
+        "image": "images/image26.jpg"
+      },
+      {
+        "name": "Verònica con Profe en Iberà.jpg",
+        "slug": "veronica-con-profe-en-ibera",
+        "image": "images/image24.jpg"
+      },
+      {
+        "name": "Verónica Pohl Schnake.JPG",
+        "slug": "veronica-pohl-schnake",
+        "image": "images/image7.jpg"
+      },
+      {
+        "name": "Veronica y Fito presentación libro.jpg",
+        "slug": "veronica-y-fito-presentacion-libro",
+        "image": "images/image166.jpg"
+      },
+      {
+        "name": "Viaje a la Patagonia.jpg",
+        "slug": "viaje-a-la-patagonia",
+        "image": "images/image77.jpg"
+      },
+      {
+        "name": "Vivi desmayada, Dr. Tito Gavassi y Ale Gonzàlez.jpg",
+        "slug": "vivi-desmayada-dr-tito-gavassi-y-ale-gonzalez",
+        "image": "images/image2.jpg"
+      },
+      {
+        "name": "Vivi Novas en Cruz del Eje.jpg",
+        "slug": "vivi-novas-en-cruz-del-eje",
+        "image": "images/image159.jpg"
+      }
+    ]
+  },
+  {
+    "title": "Anécdotas",
+    "photos": [
+      {
+        "name": "Clave Cuatro",
+        "slug": "clave-cuatro-2",
+        "image": "images/image95.jpg"
+      },
+      {
+        "name": "En Samay Huasi",
+        "slug": "en-samay-huasi",
+        "image": "images/image126.jpg"
+      }
+    ]
+  },
+  {
+    "title": "Encuentros",
+    "photos": [
+      {
+        "name": "Encuentro casual en El Retiro con Patricia Pintos, Analía Zamponi y otros\n                        compañeros",
+        "slug": "encuentro-casual-en-el-retiro-con-patricia-pintos-analia-zamponi-y-otros-companeros",
+        "image": "images/image150.jpg"
+      },
+      {
+        "name": "Encuentro con Claudia Bilbao en Rauch",
+        "slug": "encuentro-con-claudia-bilbao-en-rauch",
+        "image": "images/image66.jpg"
+      },
+      {
+        "name": "Encuentro en Yapeyú con Silvia Ferrante y Nora Zalazar",
+        "slug": "encuentro-en-yapeyu-con-silvia-ferrante-y-nora-zalazar",
+        "image": "images/image80.jpg"
+      },
+      {
+        "name": "Encuentro en Tandil con Cecilia Irazoqui y Goyo Castellaro",
+        "slug": "encuentro-en-tandil-con-cecilia-irazoqui-y-goyo-castellaro",
+        "image": "images/image19.jpg"
+      },
+      {
+        "name": "Stella Mancini, Gabriela Muñoz y Rosa Pal",
+        "slug": "stella-mancini-gabriela-munoz-y-rosa-pal",
+        "image": "images/image110.jpg"
+      },
+      {
+        "name": "Vivi González",
+        "slug": "vivi-gonzalez",
+        "image": "images/image17.jpg"
+      }
+    ]
+  },
+  {
+    "title": "Etapa final",
+    "photos": [
+      {
+        "name": "Cumple 70",
+        "slug": "cumple-70",
+        "image": "images/image16.png"
+      },
+      {
+        "name": "Despedida Facu",
+        "slug": "despedida-facu",
+        "image": "images/image35.png"
+      },
+      {
+        "name": "Firma final",
+        "slug": "firma-final",
+        "image": "images/image72.jpg"
+      },
+      {
+        "name": "Jornadas Platenses",
+        "slug": "jornadas-platenses",
+        "image": "images/image41.png"
+      },
+      {
+        "name": "Libro Iberá",
+        "slug": "libro-ibera",
+        "image": "images/image20.png"
+      },
+      {
+        "name": "Presentación en Corrientes",
+        "slug": "presentacion-en-corrientes",
+        "image": "images/image71.jpg"
+      },
+      {
+        "name": "Presentación Univ Talca Chile",
+        "slug": "presentacion-univ-talca-chile",
+        "image": "images/image29.jpg"
+      },
+      {
+        "name": "Stand Moglia",
+        "slug": "stand-moglia",
+        "image": "images/image132.jpg"
+      },
+      {
+        "name": "Última actividad académica Río Cuarto",
+        "slug": "ultima-actividad-academica-rio-cuarto",
+        "image": "images/image3.jpg"
+      },
+      {
+        "name": "Última clase Bio La Plata",
+        "slug": "ultima-clase-bio-la-plata",
+        "image": "images/image88.jpg"
+      },
+      {
+        "name": "Última clase Río Cuarto",
+        "slug": "ultima-clase-rio-cuarto",
+        "image": "images/image54.jpg"
+      }
+    ]
+  },
+  {
+    "title": "La música y la Geografía",
+    "photos": [
+      {
+        "name": "Con Alicia Carrasco y Hnos Ramos",
+        "slug": "con-alicia-carrasco-y-hnos-ramos",
+        "image": "images/image34.jpg"
+      },
+      {
+        "name": "Coro Purajhey Yoá",
+        "slug": "coro-purajhey-yoa",
+        "image": "images/image124.jpg"
+      },
+      {
+        "name": "Grupo Taulén",
+        "slug": "grupo-taulen",
+        "image": "images/image56.jpg"
+      }
+    ]
+  },
+  {
+    "title": "Los viajes",
+    "photos": [
+      {
+        "name": "Caminando por el Palmar",
+        "slug": "caminando-por-el-palmar",
+        "image": "images/image118.jpg"
+      },
+      {
+        "name": "Palmar con Isabel Andrade",
+        "slug": "palmar-con-isabel-andrade",
+        "image": "images/image123.jpg"
+      },
+      {
+        "name": "En cataratas Iguazú",
+        "slug": "en-cataratas-iguazu",
+        "image": "images/image92.jpg"
+      },
+      {
+        "name": "Grupo Terrero en el Palmar",
+        "slug": "grupo-terrero-en-el-palmar",
+        "image": "images/image58.jpg"
+      },
+      {
+        "name": "Pepe Cóccaro en Mar del Plata",
+        "slug": "pepe-coccaro-en-mar-del-plata",
+        "image": "images/image70.jpg"
+      },
+      {
+        "name": "Salida viaje a Mar del Plata",
+        "slug": "salida-viaje-a-mar-del-plata",
+        "image": "images/image96.jpg"
+      },
+      {
+        "name": "Siragusa en San Pedro",
+        "slug": "siragusa-en-san-pedro",
+        "image": "images/image139.jpg"
+      },
+      {
+        "name": "Viaje a Posadas",
+        "slug": "viaje-a-posadas",
+        "image": "images/image76.jpg"
+      },
+      {
+        "name": "Viaje a San Pedro 1",
+        "slug": "viaje-a-san-pedro-1",
+        "image": "images/image111.jpg"
+      },
+      {
+        "name": "Viaje a San Pedro",
+        "slug": "viaje-a-san-pedro",
+        "image": "images/image60.jpg"
+      }
+    ]
+  },
+  {
+    "title": "Mi devenir geográfico",
+    "photos": [
+      {
+        "name": "Con Cuenca Jornadas 1993",
+        "slug": "con-cuenca-jornadas-1993",
+        "image": "images/image107.jpg"
+      },
+      {
+        "name": "Con Moglia y Prof Aguero",
+        "slug": "con-moglia-y-prof-aguero",
+        "image": "images/image57.jpg"
+      },
+      {
+        "name": "Despedida Río Cuarto",
+        "slug": "despedida-rio-cuarto",
+        "image": "images/image103.jpg"
+      },
+      {
+        "name": "Evento San Juan 1982",
+        "slug": "evento-san-juan-1982",
+        "image": "images/image136.jpg"
+      },
+      {
+        "name": "Mendoza 1984",
+        "slug": "mendoza-1984",
+        "image": "images/image21.jpg"
+      },
+      {
+        "name": "Mendoza con alumnos 1984",
+        "slug": "mendoza-con-alumnos-1984",
+        "image": "images/image45.jpg"
+      },
+      {
+        "name": "Patricia y Alejandro",
+        "slug": "patricia-y-alejandro",
+        "image": "images/image63.jpg"
+      },
+      {
+        "name": "Reunión Geógrafos La Plata",
+        "slug": "reunion-geografos-la-plata",
+        "image": "images/image156.jpg"
+      },
+      {
+        "name": "Jornadas Platenses 1993",
+        "slug": "jornadas-platenses-1993<",
+        "image": "images/image33.jpg"
+      }
+    ]
+  },
+  {
+    "title": "Prólogo",
+    "photos": [
+      {
+        "name": "Patricia Pintos",
+        "slug": "prologo",
+        "image": "images/image32.jpg"
+      }
+    ]
+  },
+  {
+    "title": "Samay Huasi",
+    "photos": [
+      {
+        "name": "Samay Huasi",
+        "slug": "samay-huasi-2",
+        "image": "images/image113.jpg"
+      }
+    ]
+  },
+  {
+    "title": "Otros aportes (omitidos)",
+    "photos": [
+      {
+        "name": "Pedro Raùl Valdez",
+        "slug": "pedro-raul-valdez",
+        "image": "images/image28.jpg"
+      },
+      {
+        "name": "María Rosa de viaje",
+        "slug": "maria-rosa-de-viaje",
+        "image": "images/image83.jpg"
+      },
+      {
+        "name": "María Rosa encuentro 2019",
+        "slug": "maria-rosa-encuentro-2019",
+        "image": "images/image157.jpg"
+      },
+      {
+        "name": "Matías con amigos colegas",
+        "slug": "matias-con-amigos-colegas",
+        "image": "images/image165.jpg"
+      },
+      {
+        "name": "Matías con amigos colegas 1",
+        "slug": "matias-con-amigos-colegas-1",
+        "image": "images/image119.jpg"
+      },
+      {
+        "name": "Matías en Col Santa Rosa",
+        "slug": "matias-en-col-santa-rosa",
+        "image": "images/image39.jpg"
+      },
+      {
+        "name": "Matías firmando libros",
+        "slug": "matias-firmando-libros",
+        "image": "images/image59.jpg"
+      },
+      {
+        "name": "Nora Abdhch",
+        "slug": "nora-abdhch",
+        "image": "images/image98.jpg"
+      },
+      {
+        "name": "Nora viaje al NOA",
+        "slug": "nora-viaje-al-noa",
+        "image": "images/image8.jpg"
+      }
+    ]
+  },
+  {
+    "title": "Encuentros",
+    "photos": [
+      {
+        "name": "Victor Hugo y las Cristinas",
+        "slug": "victor-hugo-y-las-cristinas",
+        "image": "images/image79.jpg"
+      },
+      {
+        "name": "Generaciones",
+        "slug": "rocio-martinez-2",
+        "image": "images/image6.jpg"
+      }
+    ]
+  }
+]
